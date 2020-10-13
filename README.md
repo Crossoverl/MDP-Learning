@@ -11,7 +11,7 @@
  
  <number of states> <number of possible actions> <test file> <discount factor>
  
- EX: "python main.py 5 3 test.in 0.9"
+ EX: "python main.py 4 2 test.in 0.9"
  
  Script execution will output error message if more or less than 4 arguments
  are given in the command line invocation.
